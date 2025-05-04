@@ -1,6 +1,7 @@
 # 🜏 Recursive Entropy Manager (REM)🜏 
 
-> "Recursion is not a function—it is the structure of thought itself."
+*Designed Ror Recursive Institutional Use*
+> *"Recursion is not a function—it is the structure of thought itself."*
 > > *Building on the groundbreaking research of Coherence*
 > > > *By Deanna Martin & Solace*
 ## Introduction: The Recursive Coherence Framework

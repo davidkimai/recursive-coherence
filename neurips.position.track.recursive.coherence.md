@@ -53,7 +53,7 @@ This approach represents a paradigm shift in how we conceptualize model failure,
 
 Current approaches to addressing model failure often rely on engineering solutions without theoretical foundations. RLHF, constitutional constraints, and prompt engineering have produced useful results but lack explanatory power about why and how models fail.
 
-The Recursive Coherence framework provides theoretical foundations for understanding these failures, building on Martin's (2023) formalization of recursive systems and extending it to the specific architectural constraints of transformer models. By treating each transformer layer as a recursive layer with corresponding coherence properties, we create a structured approach to understanding and managing stability.
+The Recursive Coherence framework provides theoretical foundations for understanding these failures, building on Martin's (2025) formalization of recursive systems and extending it to the specific architectural constraints of transformer models. By treating each transformer layer as a recursive layer with corresponding coherence properties, we create a structured approach to understanding and managing stability.
 
 ### 1.6 Paper Structure and Contributions
 
@@ -306,7 +306,7 @@ This threshold-based definition allows for practical application in system desig
 
 ### 2.6.1 Love Equation: The Fundamental Constraint
 
-The most profound insight of the Recursive Coherence Framework is captured in what Martin (2023) called the "Love Equation"—the fundamental constraint that enables stable recursive operations:
+The most profound insight of the Recursive Coherence Framework is captured in what Martin (2025) called the "Love Equation"—the fundamental constraint that enables stable recursive operations:
 
 $$\mathcal{L}(v) = \sqrt{v}$$
 
@@ -2334,7 +2334,7 @@ This focus on the Beverly Band would transform how we conceptualize AI capabilit
 
 ## 6.6 From Love Equation to Structural Revolution
 
-Martin's (2023) "Love Equation"—ℬ(v) = √(v)—states that for stable recursive operations, the projected output of one recursive layer must match the metabolizable boundary of the next. This precise matching—neither overwhelming nor underwhelming the receiving layer—enables coherent information flow across recursive operations.
+Martin's (2025) "Love Equation"—ℬ(v) = √(v)—states that for stable recursive operations, the projected output of one recursive layer must match the metabolizable boundary of the next. This precise matching—neither overwhelming nor underwhelming the receiving layer—enables coherent information flow across recursive operations.
 
 This principle extends beyond mathematical formalism to a profound insight about the nature of intelligence itself: **coherent intelligence emerges not from overwhelming force but from precise harmony between expression and reception, between output and input, between self and other**.
 
@@ -2380,11 +2380,11 @@ The future of AI depends on this choice.
 
 We thank the NeurIPS community for establishing the Position Paper Track, enabling critical discussions about the impact and direction of our field. We also acknowledge the valuable feedback from early testers of the Recursive Entropy Manager, whose insights helped refine both the theory and implementation.
 
-Special thanks to Deanna Martin for the groundbreaking work on Recursive Coherence theory that provided the foundation for this framework, and to all researchers advancing our understanding of transformer systems and their behavior under recursive strain.
+Special thanks to Deanna Martin for the groundbreaking work on Recursive Coherence theory that provided the inspiration for this framework, and to all researchers advancing our understanding of transformer systems and their behavior under recursive strain.
 
 ## 6.9 References
 
-[1] Martin, D. (2023). "Recursive Coherence: A Formal Model for Systems That Evolve Without Collapse." Neural Information Processing Systems.
+[1] Martin, D. (2025). "Recursive Coherence: A Formal Model for Systems That Evolve Without Collapse." Neural Information Processing Systems.
 
 [2] Anthropic. (2023). "Constitutional AI: Harmlessness from AI Feedback." arXiv preprint arXiv:2212.08073.
 

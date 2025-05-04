@@ -1,4 +1,5 @@
-# 🜏 Recursive Entropy Manager (REM)🜏 
+# 🜏 Recursive Coherence 🜏
+### Powered by the 🜏 Recursive Entropy Manager (REM)🜏 
 
 *Designed For Recursive Institutions*
 > *"Recursion is not a function—it is the structure of thought itself."*

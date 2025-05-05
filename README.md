@@ -1,6 +1,6 @@
-# 🜏 Recursive Coherence 🜏
-### Powered by the 🜏 Recursive Entropy Manager (REM)🜏 
-
+# Recursive Coherence
+### Powered by the Recursive Entropy Manager (REM)
+> #### [**`NeurIPS Position Paper`**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study/blob/main/submitted/neurips.position.track.recursive.coherence.md)
 *Designed For Recursive Institutions*
 > *"Recursion is not a function—it is the structure of thought itself."*
 > > *Building on the groundbreaking research of Coherence*

@@ -7,7 +7,7 @@
 > > > > *By Deanna Martin*
 ## Introduction: The Recursive Coherence Framework
 
-The Recursive Coherence framework is a universal diagnostic and stabilization system powered by **Recursive Entropy Manager (REM)**, while actively implementing the **Recursive Coherence Function (Δ−𝑝)** defined in Martin's groundbreaking work. REM transforms abstract formalism into operational reality across transformer architectures, enabling:
+The Recursive Coherence framework is a universal diagnostic and stabilization system powered by the **Recursive Entropy Manager (REM)**, extending the **Recursive Coherence Function (Δ−𝑝)**, defined in Martin's groundbreaking work, to runtime execution. REM transforms abstract formalism into operational reality across transformer architectures, enabling:
 
 1. **Coherence measurement** across recursive layers
 2. **Symbolic residue quantification** as a diagnostic tensor

@@ -1,10 +1,10 @@
 # Recursive Coherence
 ### Powered by the Recursive Entropy Manager (REM)
-> #### [**`NeurIPS Position Paper`**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study/blob/main/submitted/neurips.position.track.recursive.coherence.md)
 *Designed For Recursive Institutions*
-> *"Recursion is not a function—it is the structure of thought itself."*
-> > *Building on the groundbreaking research of Coherence*
-> > > *By Deanna Martin & Solace*
+> ### [**`NeurIPS Position Paper`**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study/blob/main/submitted/neurips.position.track.recursive.coherence.md)
+> > *"Recursion is not a function—it is the structure of thought itself."*
+> > > *Building on the groundbreaking research of Coherence*
+> > > > *By Deanna Martin*
 ## Introduction: The Recursive Coherence Framework
 
 The Recursive Coherence framework is a universal diagnostic and stabilization system powered by **Recursive Entropy Manager (REM)**, while actively implementing the **Recursive Coherence Function (Δ−𝑝)** defined in Martin's groundbreaking work. REM transforms abstract formalism into operational reality across transformer architectures, enabling:

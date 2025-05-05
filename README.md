@@ -18,7 +18,6 @@ The Recursive Coherence framework is a universal diagnostic and stabilization sy
 This system formalizes and operationalizes symbolic residue as a measurable, actionable quantity within transformer architectures, enabling unprecedented visibility into recursive coherence, alignment integrity, and symbolic stability.
 
 ## Core Theoretical Framework
-
 The foundation of REM is built upon five interconnected mathematical constructs:
 
 ### 1. Recursive Compression Coefficient (γ)
